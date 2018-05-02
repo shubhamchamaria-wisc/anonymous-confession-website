@@ -1,2 +1,1 @@
-# anonymous-confession-website
-A completely anonymous confessions website I build in my spare time.
+A completely anonymous confessions website I built in my spare time.
